@@ -1,17 +1,17 @@
 {
-"allproducts": [
+"products": [
     {
       "name": "Laptop",
       "price": "40000",
       "category": "Electronics",
-      "image": "laptop.jpeg",
+      "imageURL": "https://i.gadgets360cdn.com/products/large/1555507135_635_samsung_galaxy_a60.jpg",
       "id": 22
     },
     {
       "name": "mobile",
       "price": "20000",
       "category": "Electronics",
-      "image": "iphone.jpeg",
+     "imageURL": "https://i.gadgets360cdn.com/products/large/1555507135_635_samsung_galaxy_a60.jpg",    
       "id": 23
     }
       ]
