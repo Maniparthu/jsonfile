@@ -1,0 +1,18 @@
+{
+"allproducts": [
+    {
+      "name": "Laptop",
+      "price": "40000",
+      "category": "Electronics",
+      "image": "laptop.jpeg",
+      "id": 22
+    },
+    {
+      "name": "mobile",
+      "price": "20000",
+      "category": "Electronics",
+      "image": "iphone.jpeg",
+      "id": 23
+    }
+      ]
+}
